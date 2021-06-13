@@ -1,0 +1,23 @@
+https://webpack.js.org/guides/getting-started/
+https://jestjs.io/docs/getting-started
+https://jestjs.io/docs/webpack
+https://stackoverflow.com/questions/35171288/error-cannot-resolve-module-style-loader
+https://stackoverflow.com/questions/48147896/error-in-cannot-find-module-node-sass
+https://stackoverflow.com/questions/34352929/webpack-cannot-resolve-module-file-loader
+
+
+## Used Commands
+
+- npm init
+- npm install eslint --save-dev
+- npm install prettier --save-dev
+- ./node_modules/.bin/eslint --init
+- //configure the options
+- npm install webpack webpack-cli --save-dev
+- npx webpack
+- npm run watch
+- npm run lint
+
+git remote add origin git@github.com:nickaiva/Battleship.git
+git branch -M main
+git push -u origin main
